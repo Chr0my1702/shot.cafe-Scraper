@@ -1,7 +1,8 @@
 
 <h1 align="center">
-  shot.cafe-Scraper
+  shot.cafe Scraper
   <br>
+  
 </h1>
 
 <img src="https://user-images.githubusercontent.com/49107678/232515035-5a8d3ddd-ca83-454a-96da-42ec1a4a4f7a.png" width="400" height="100" />

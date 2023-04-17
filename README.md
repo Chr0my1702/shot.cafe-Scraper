@@ -4,11 +4,6 @@
   <br>
 </h1>
 
-<h4 align="center">Scraper for <a href="http://shot.cafe" target="_blank">shot.cafe</a>.</h4>
-
-<p align="center"><a href="https://anonfiles.com/z9H0S7l0z3">Download latest scrape</a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/49107678/232515035-5a8d3ddd-ca83-454a-96da-42ec1a4a4f7a.png" width="400" height="100" />
 
 # Scripts:
